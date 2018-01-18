@@ -1,3 +1,12 @@
+#!/usr/bin/python
+
+''':
+   Copyright 2018 Justin Snow 
+   Written by: Justin Snow
+   https://github.com/Jrsnow8921/PayDates
+   Licensed under the MIT License
+'''
+
 from datetime import *
 
 class PayDays(object):
